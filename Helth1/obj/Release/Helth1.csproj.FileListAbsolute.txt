@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Helth1\Helth1\bin\Release\Helth1.exe.config
+C:\Users\HP\source\repos\Helth1\Helth1\bin\Release\Helth1.exe
+C:\Users\HP\source\repos\Helth1\Helth1\bin\Release\Helth1.pdb
+C:\Users\HP\source\repos\Helth1\Helth1\obj\Release\Helth1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Helth1\Helth1\obj\Release\Helth1.Form1.resources
+C:\Users\HP\source\repos\Helth1\Helth1\obj\Release\Helth1.Properties.Resources.resources
+C:\Users\HP\source\repos\Helth1\Helth1\obj\Release\Helth1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Helth1\Helth1\obj\Release\Helth1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Helth1\Helth1\obj\Release\Helth1.exe
+C:\Users\HP\source\repos\Helth1\Helth1\obj\Release\Helth1.pdb
